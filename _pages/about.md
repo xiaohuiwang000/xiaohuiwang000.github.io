@@ -40,12 +40,6 @@ This summer, I will be joining [HKU MMLab](https://mmlab.ie.cuhk.edu.hk/people.h
 Chenyu Huang, Peng Ye, **Xiaohui Wang**, Shenghe Zheng, Biqing Qi, Lei Bai, Wanli Ouyang, Tao Chen
 
 - Motivated by the classic JPEG compression, we explore the delta compression from the DCT domain for the first time. We first realize data-free delta compression and further reduce the performance degradation. We propose a framework based on compression in the DCT domain, named DELTA-DCT. The performance of the proposed DELTA-DCT is evaluated across multiple classical and newly-established task settings on various model backbones, covering different language models (both LLM and relatively small LMs), vision models, and multi-modal models.
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
 # 📖 Educations
