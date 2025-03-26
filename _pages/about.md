@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m **Xiaohui Wang**, a third-year undergraduate student majoring in Electronic Engineering at [Fudan University](https://www.fudan.edu.cn). I’m fortunate to be advised by [Prof. Tao Chen](https://eetchen.github.io/) at the Fudan EDL Lab and work closely with [Dr. Peng Ye](https://scholar.google.com/citations?user=UEZZP5QAAAAJ&hl=zh-CN). My research interests lie in **Efficient AI**, **Multi-Modal AI**, and **Multi-Agent Systems**.
+Hi! I’m **Xiaohui Wang**, a third-year undergraduate student majoring in Electronic Information Science and Technology at [Fudan University](https://www.fudan.edu.cn). I am fortunate to be advised by [Prof. Tao Chen](https://eetchen.github.io/) at the Fudan EDL Lab. I also work closely with [Dr. Peng Ye](https://scholar.google.com/citations?user=UEZZP5QAAAAJ&hl=zh-CN)(Postdoc at CUHK MMLab). My research interests lie in **Efficient AI**, **Multi-Modal AI**, and **Multi-Agent Systems**.
 
-This summer, I will be joining [HKU MMLab](https://mmlab.ie.cuhk.edu.hk/people.html) as a research intern under the supervision of [Prof. Ping Luo](http://luoping.me/).
+I am proud to have received the **National Scholarship (2022-2023)** for my academic achievements, with a GPA of **92/100**, ranking in the **top 5%** of my class. I am passionate about exploring ways to enhance AI systems for more efficient and versatile real-world applications.
+
+This summer, I will be joining [HKU MMLab](https://mmlab.ie.cuhk.edu.hk/people.html) as a research intern under the supervision of [Prof. Ping Luo](http://luoping.me/). I am excited to work alongside talented researchers.
+
+If you’re interested in connecting, collaborating, or discussing ideas, feel free to reach out to me via [email](xiaohuiwang21@m.fudan.edu.cn). I am also seeking a Ph.D. position in Hong Kong for Fall 2026. You can access my CV [here](https://drive.google.com/file/d/1iVkl7Sylw97Vx21W7WbjYvrvfqbIzPyS/view?usp=drive_link).
 
 
 # 🔥 News
