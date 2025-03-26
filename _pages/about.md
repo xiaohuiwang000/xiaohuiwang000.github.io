@@ -36,14 +36,15 @@ If you are interested in connecting, collaborating, or discussing ideas, feel fr
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/delta_dct.png' alt="sym" width="100%"></div></div>
-
+<div class='paper-box-text' markdown="1">
 [Seeing Delta Parameters as JPEG Images: Data-Free Delta Compression with Discrete Cosine Transform](https://arxiv.org/pdf/2503.06676)
 
 Chenyu Huang, Peng Ye, **Xiaohui Wang**, Shenghe Zheng, Biqing Qi, Lei Bai, Wanli Ouyang, Tao Chen
 
 - Motivated by the classic JPEG compression, we explore the delta compression from the DCT domain for the first time. We first realize data-free delta compression and further reduce the performance degradation. We propose a framework based on compression in the DCT domain, named DELTA-DCT. The performance of the proposed DELTA-DCT is evaluated across multiple classical and newly-established task settings on various model backbones, covering different language models (both LLM and relatively small LMs), vision models, and multi-modal models.
-
 </div>
+</div>
+
 # 📖 Educations
 - *2022.06 - present*, Electronic Information Science and Technology, Fudan University. (GPA:92/100, rank Top 5%)
 
