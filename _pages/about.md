@@ -45,7 +45,6 @@ Chenyu Huang, Peng Ye, **Xiaohui Wang**, Shenghe Zheng, Biqing Qi, Lei Bai, Wanl
 - Motivated by the classic JPEG compression, we explore the delta compression from the DCT domain for the first time. We first realize data-free delta compression and further reduce the performance degradation. We propose a framework based on compression in the DCT domain, named DELTA-DCT. The performance of the proposed DELTA-DCT is evaluated across multiple classical and newly-established task settings on various model backbones, covering different language models (both LLM and relatively small LMs), vision models, and multi-modal models.
 
 </div>
-</div>
 
 
 # 📖 Educations
