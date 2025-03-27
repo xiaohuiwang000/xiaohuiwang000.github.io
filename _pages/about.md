@@ -46,7 +46,7 @@ Chenyu Huang, Peng Ye, **Xiaohui Wang**, Shenghe Zheng, Biqing Qi, Lei Bai, Wanl
 </div>
 
 # 📖 Education
-- *2022.06 - present*, Electronic Information Science and Technology, Fudan University. (GPA:92/100, rank Top 5%)
+- *2022.06 - present*, Electronic Information Science and Technology, Fudan University. (GPA:92/100, rank:9/268)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
