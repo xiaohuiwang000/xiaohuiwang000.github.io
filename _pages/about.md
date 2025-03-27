@@ -40,7 +40,7 @@ This summer, I will be joining HKU [MMLab](https://mmlab.ie.cuhk.edu.hk) as a **
 <div class='paper-box-text' markdown="1">
 [Seeing Delta Parameters as JPEG Images: Data-Free Delta Compression with Discrete Cosine Transform](https://arxiv.org/pdf/2503.06676)
 
-Chenyu Huang*, Peng Ye*, <span style="color:blue;">**Xiaohui Wang**</span>, Shenghe Zheng, Biqing Qi, Lei Bai, Wanli Ouyang, Tao Chen&#8224;
+Chenyu Huang\*, Peng Ye\*, <span style="color:blue;">**Xiaohui Wang**</span>, Shenghe Zheng, Biqing Qi, Lei Bai, Wanli Ouyang, Tao Chen&#8224;
 
 - Motivated by the classic JPEG compression, we explore the delta compression from the DCT domain for the first time. We first realize data-free delta compression and further reduce the performance degradation. We propose a framework based on compression in the DCT domain, named DELTA-DCT. The performance of the proposed DELTA-DCT is evaluated across multiple classical and newly-established task settings on various model backbones, covering different language models (both LLM and relatively small LMs), vision models, and multi-modal models.
 </div>
