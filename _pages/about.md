@@ -21,7 +21,7 @@ Hi! I am **Xiaohui Wang**, a third-year undergraduate student majoring in Electr
 
 I am proud to have received the **National Scholarship (2022-2023)** for my academic achievements, with a GPA of **92/100**, ranking in the **top 5%** of my class. I am passionate about exploring ways to enhance AI systems for more efficient and versatile real-world applications.
 
-This summer, I will be joining [HKU MMLab](https://mmlab.ie.cuhk.edu.hk/people.html) as a **research intern** under the supervision of [Prof. Ping Luo](http://luoping.me/). I am excited to work alongside talented researchers.
+This summer, I will be joining HKU [MMLab](https://mmlab.ie.cuhk.edu.hk) as a **research intern** under the supervision of [Prof. Ping Luo](http://luoping.me/). I am excited to work alongside talented researchers.
 
 <span style="color:blue;">If you are interested in connecting, collaborating, or discussing ideas, feel free to reach out to me via email. I am also seeking a Ph.D. position for Fall 2026. You can access my CV [here](https://drive.google.com/file/d/1iVkl7Sylw97Vx21W7WbjYvrvfqbIzPyS/view?usp=drive_link).</span>
 
