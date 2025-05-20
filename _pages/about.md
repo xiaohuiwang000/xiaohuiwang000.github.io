@@ -26,8 +26,8 @@ This summer, I will be joining HKU [MMLab](https://mmlab.ie.cuhk.edu.hk) as a **
 <span style="color:blue;">If you are interested in connecting, collaborating, or discussing ideas, feel free to reach out to me via email. I am also seeking a Ph.D. position for Fall 2026.</span>
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 I am proud to be named one of the Top 10 Students in the School of Information Science and Technology at Fudan University!
-- *2025.05*: &nbsp;🎉🎉 I have received the Fumei Summer Research Scholarship from the Fumei Foundation. Many thanks for their generous support!
+- *2025.05*: &nbsp;🎉🎉 I am proud to be named one of the Top 10 Students in the School of Information Science and Technology!
+- *2025.05*: &nbsp;🎉🎉 I have received the Fumei Summer Research Scholarship. Many thanks for their generous support!
 - *2025.03*: &nbsp;🎉🎉 I have been accepted into the 2025 Summer Research Internship Programme in School of CDS at HKU.
 - *2025.03*: &nbsp;🎉🎉 Our work on [Delta Parameter Compression](https://arxiv.org/pdf/2503.06676) is now on arxiv！
 
