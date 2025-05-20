@@ -39,7 +39,7 @@ This summer, I will be joining HKU [MMLab](https://mmlab.ie.cuhk.edu.hk) as a **
 - *2023-2024* SCSK Corporation Scholarship
 - *2024.09* China Undergraduate Mathematical Contest in Modeling (Second Prize, Shanghai)
 
-# 📝 Selected Publications
+# 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='../images/ultradelta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Breaking the Compression Ceiling: Data-Free Pipeline for Ultra-Efficient Delta Compression](https://arxiv.org/pdf/2503.06676)
