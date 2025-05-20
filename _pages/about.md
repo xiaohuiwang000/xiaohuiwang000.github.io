@@ -40,7 +40,7 @@ This summer, I will be joining HKU [MMLab](https://mmlab.ie.cuhk.edu.hk) as a **
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/delta_dct.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='../images/delta_dct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Seeing Delta Parameters as JPEG Images: Data-Free Delta Compression with Discrete Cosine Transform](https://arxiv.org/pdf/2503.06676)
 
