@@ -26,10 +26,11 @@ This summer, I will be joining HKU [MMLab](https://mmlab.ie.cuhk.edu.hk) as a **
 <span style="color:blue;">If you are interested in connecting, collaborating, or discussing ideas, feel free to reach out to me via email. I am also seeking a Ph.D. position for Fall 2026. You can access my CV [**HERE**](https://drive.google.com/file/d/187rZdZZIrTxQpYSrKbO4YIWrrETO6eEs/view?usp=drive_link).</span>
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Our work [UltraDelta](https://arxiv.org/pdf/2503.06676) is now on arxiv！
 - *2025.05*: &nbsp;🎉🎉 I am proud to be named one of the Top 10 Students in the School of Information Science and Technology!
 - *2025.05*: &nbsp;🎉🎉 I have received the Fumei Summer Research Scholarship. Many thanks to the Fumei Foundation!
 - *2025.03*: &nbsp;🎉🎉 I have been accepted into the 2025 Summer Research Internship Programme in School of CDS at HKU.
-- *2025.03*: &nbsp;🎉🎉 Our work on [Delta Parameter Compression](https://arxiv.org/pdf/2503.06676) is now on arxiv！
+- *2025.03*: &nbsp;🎉🎉 Our work [Delta-DCT](https://arxiv.org/pdf/2503.06676) is now on arxiv！
 
 # 🎖 Honors and Awards
 - *2022-2023* **National Scholarship**
@@ -38,7 +39,7 @@ This summer, I will be joining HKU [MMLab](https://mmlab.ie.cuhk.edu.hk) as a **
 - *2023-2024* SCSK Corporation Scholarship
 - *2024.09* China Undergraduate Mathematical Contest in Modeling (Second Prize, Shanghai)
 
-# 📝 Publications
+# 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='../images/ultradelta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
