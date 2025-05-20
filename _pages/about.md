@@ -23,7 +23,7 @@ I am proud to have received the **National Scholarship (2022-2023)** for my acad
 
 This summer, I will be joining HKU [MMLab](https://mmlab.ie.cuhk.edu.hk) as a **research intern** under the supervision of [Prof. Ping Luo](http://luoping.me/). I am excited to work alongside talented researchers.
 
-<span style="color:blue;">If you are interested in connecting, collaborating, or discussing ideas, feel free to reach out to me via email. I am also seeking a Ph.D. position for Fall 2026.</span>
+<span style="color:blue;">If you are interested in connecting, collaborating, or discussing ideas, feel free to reach out to me via email. I am also seeking a Ph.D. position for Fall 2026. You can access my CV [HERE](https://drive.google.com/file/d/10j7GBb5i3O8H4TULptcc9b_-NXAcT2j3/view?usp=drive_link)</span>
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 I am proud to be named one of the Top 10 Students in the School of Information Science and Technology!
