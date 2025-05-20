@@ -40,13 +40,23 @@ This summer, I will be joining HKU [MMLab](https://mmlab.ie.cuhk.edu.hk) as a **
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='../images/ultradelta.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Breaking the Compression Ceiling: Data-Free Pipeline for Ultra-Efficient Delta Compression](https://arxiv.org/pdf/2503.06676)
+
+<span style="color:blue;">**Xiaohui Wang**\*</span>, Peng Ye\*, Chenyu Huang, Shenghe Zheng, Bo Zhang, Lei Bai, Wanli Ouyang, Tao Chen&#8224;
+
+- To break the compression ceiling of delta weights, we analyze the limitations of existing methods in information preservation and model stability, and propose UltraDelta, the first data-free pipeline enabling ultra-efficient delta compression, achieving both ultra-high compression ratios and strong performance without relying on any data.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='../images/delta_dct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Seeing Delta Parameters as JPEG Images: Data-Free Delta Compression with Discrete Cosine Transform](https://arxiv.org/pdf/2503.06676)
 
 Chenyu Huang\*, Peng Ye\*, <span style="color:blue;">**Xiaohui Wang**</span>, Shenghe Zheng, Biqing Qi, Lei Bai, Wanli Ouyang, Tao Chen&#8224;
 
-- Motivated by the classic JPEG compression, we explore the delta compression from the DCT domain for the first time. We first realize data-free delta compression and further reduce the performance degradation. We propose a framework based on compression in the DCT domain, named DELTA-DCT. The performance of the proposed DELTA-DCT is evaluated across multiple classical and newly-established task settings on various model backbones, covering different language models (both LLM and relatively small LMs), vision models, and multi-modal models.
+- Motivated by the classic JPEG compression, we explore the delta compression from the DCT domain for the first time. We first realize data-free delta compression and further reduce the performance degradation. We propose a framework based on compression in the DCT domain, named DELTA-DCT.
 </div>
 </div>
 
