@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am **Xiaohui Wang**, a third-year undergraduate student majoring in Electronic Information Science and Technology at [Fudan University](https://www.fudan.edu.cn). I am fortunate to be advised by [Prof. Tao Chen](https://eetchen.github.io/) at the Fudan EDL Lab. I also work closely with Dr. Peng Ye (Postdoc at CUHK MMLab). My research interests lie in **Efficient AI**, **Multi-Modal AI**, and **Embodied AI**.
+Hi! I am **Xiaohui Wang**, a third-year undergraduate student majoring in Electronic Information Science and Technology at [Fudan University](https://www.fudan.edu.cn). I am fortunate to be advised by [Prof. Tao Chen](https://eetchen.github.io/) at the Fudan EDL Lab. I also work closely with Dr. Peng Ye (Postdoc at [MMLab@CUHK](https://mmlab.ie.cuhk.edu.hk). My research interests lie in **Efficient AI**, **Multi-Modal AI**, and **Embodied AI**.
 
 I am proud to have received the **National Scholarship (2022-2023)** for my academic achievements, with a GPA of **93/100**. I am passionate about exploring ways to enhance AI systems for more efficient and versatile real-world applications.
 
-This summer, I will be joining HKU [MMLab](https://mmlab.ie.cuhk.edu.hk) as a **research intern** under the supervision of [Prof. Ping Luo](http://luoping.me/). I am excited to work alongside talented researchers.
+This summer, I will be joining [MMLab@HKU](https://mmlab.hk) as a **research intern** under the supervision of [Prof. Ping Luo](http://luoping.me/). I am excited to work alongside talented researchers.
 
 <span style="color:blue;">If you are interested in connecting, collaborating, or discussing ideas, feel free to reach out to me via email. I am also seeking a Ph.D. position for Fall 2026. You can access my CV [**HERE**](https://drive.google.com/file/d/187rZdZZIrTxQpYSrKbO4YIWrrETO6eEs/view?usp=drive_link).</span>
 
@@ -65,7 +65,8 @@ Chenyu Huang\*, Peng Ye\*, <span style="color:blue;">**Xiaohui Wang**</span>, Sh
 
 # 📖 Education
 - *2022.06 - present*, Electronic Information Science and Technology, Fudan University. (GPA:93/100, rank: 5/95 in class, 8/295 in school)
-
+- *2025.06 - 2025.09*, School of Computing and Data Science, The University of Hong Kong (Summer Intern at MMLab@HKU)
+- 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
