@@ -64,7 +64,7 @@ Chenyu Huang\*, Peng Ye\*, <span style="color:blue;">**Xiaohui Wang**</span>, Sh
 </div>
 
 # 📖 Education
-- *2022.06 - present*, Electronic Information Science and Technology, Fudan University. (GPA:93/100, rank: 5/95 in class, 8/295 in school)
+- *2022.06 - present*, Electronic Information Science and Technology, Fudan University. (GPA:93/100, rank: 5/95 in class, 5/206 in school)
 - *2025.06 - 2025.09*, School of Computing and Data Science, The University of Hong Kong (Summer Intern at MMLab@HKU)
 
 <!-- # 💬 Invited Talks
