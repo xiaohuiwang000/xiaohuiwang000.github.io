@@ -23,7 +23,7 @@ I am proud to have received the **National Scholarship (2022-2023)** for my acad
 
 I have worked as a **research intern** at [MMLab@HKU](https://mmlab.hk) under the supervision of [Prof. Ping Luo](http://luoping.me/). I am excited to work alongside talented researchers.
 
-In addition, I am a member of the EGA robotics team at Fudan University, representing the university in the **RoboMaster** competition.
+In addition, I am a member of the [EGA robotics team](https://drive.google.com/file/d/18Pnz-0MFsJgAAWyQN3Yqpy9VvCE-_q71/view?usp=drive_link) at Fudan University, representing the university in the **RoboMaster** competition.
 
 <span style="color:blue;">If you are interested in connecting, collaborating, or discussing ideas, feel free to reach out to me via email. You can also access my CV [**HERE**](https://drive.google.com/file/d/187rZdZZIrTxQpYSrKbO4YIWrrETO6eEs/view?usp=drive_link).</span>
 
