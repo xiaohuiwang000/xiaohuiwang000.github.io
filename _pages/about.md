@@ -21,7 +21,9 @@ Hi! I am **Xiaohui Wang**, a final-year undergraduate student majoring in Electr
 
 I am proud to have received the **National Scholarship (2022-2023)** for my academic achievements. I am passionate about exploring ways to enhance AI systems for more efficient and versatile real-world applications.
 
-This summer, I will be joining [MMLab@HKU](https://mmlab.hk) as a **research intern** under the supervision of [Prof. Ping Luo](http://luoping.me/). I am excited to work alongside talented researchers.
+I have worked as a **research intern** at [MMLab@HKU](https://mmlab.hk) under the supervision of [Prof. Ping Luo](http://luoping.me/). I am excited to work alongside talented researchers.
+
+In addition, I am a member of the EGA robotics team at Fudan University, representing the university in the **RoboMaster** competition.
 
 <span style="color:blue;">If you are interested in connecting, collaborating, or discussing ideas, feel free to reach out to me via email. You can also access my CV [**HERE**](https://drive.google.com/file/d/187rZdZZIrTxQpYSrKbO4YIWrrETO6eEs/view?usp=drive_link).</span>
 
