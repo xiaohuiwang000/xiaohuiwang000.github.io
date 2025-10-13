@@ -19,7 +19,9 @@ redirect_from:
 
 Hi! I am **Xiaohui Wang**, a final-year undergraduate student majoring in Electronic Information Science and Technology at [Fudan University](https://www.fudan.edu.cn). I am fortunate to be advised by [Prof. Tao Chen](https://eetchen.github.io/) at the Fudan EDL Lab. I also work closely with Dr. Peng Ye (Postdoc at [MMLab@CUHK](https://mmlab.ie.cuhk.edu.hk). My research interests lie in **Efficient AI** and **Embodied AI**.
 
-I am proud to have received the **National Scholarship (2022-2023)** for my academic achievements. I am passionate about exploring ways to enhance AI systems for more efficient and versatile real-world applications.
+In Fall 2026, I will be joining [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) as a Ph.D. student.
+
+I am proud to have received the **National Scholarship twice (2022–2023, 2024–2025)** for my academic achievements. I am passionate about exploring ways to enhance AI systems for more efficient and versatile real-world applications.
 
 I have worked as a **research intern** at [MMLab@HKU](https://mmlab.hk) under the supervision of [Prof. Ping Luo](http://luoping.me/). I am excited to work alongside talented researchers.
 
@@ -28,14 +30,16 @@ In addition, I am a member of the [EGA robotics team](https://drive.google.com/f
 <span style="color:blue;">If you are interested in connecting, collaborating, or discussing ideas, feel free to reach out to me via email. You can also access my CV [**HERE**](https://drive.google.com/file/d/187rZdZZIrTxQpYSrKbO4YIWrrETO6eEs/view?usp=drive_link).</span>
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 I have received my second National Scholarship. Many thanks for the recognition!
 - *2025.09*: &nbsp;🎉🎉 Our work [UltraDelta](https://arxiv.org/pdf/2505.13563) has been accepted as a poster at **NeurIPS 2025**！
 - *2025.05*: &nbsp;🎉🎉 Our work [UltraDelta](https://arxiv.org/pdf/2505.13563) is now on arxiv！
 - *2025.05*: &nbsp;🎉🎉 I am proud to be named one of the Top 10 Students in the School of Information Science and Technology!
 - *2025.05*: &nbsp;🎉🎉 I have received the Fumei Summer Research Scholarship. Many thanks to the Fumei Foundation!
 - *2025.03*: &nbsp;🎉🎉 Our work [Delta-DCT](https://arxiv.org/pdf/2503.06676) is now on arxiv！
-- *2023.09*: &nbsp;🎉🎉 I have received the National Scholarship. Many thanks for the recognition!
+- *2023.12*: &nbsp;🎉🎉 I have received the National Scholarship. Many thanks for the recognition!
 
 # 🎖 Honors and Awards
+- *2024-2025* **National Scholarship**
 - *2022-2023* **National Scholarship**
 - *2024-2025* Top 10 Student Award at School of Information Science and Technology
 - *2025.05* Fumei Summer Research Scholarship (awarded to only 4 students at Fudan University)
