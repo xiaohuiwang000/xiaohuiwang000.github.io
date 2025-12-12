@@ -32,10 +32,8 @@ In Fall 2026, I will be joining [The Hong Kong University of Science and Technol
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 I have received my second National Scholarship. Many thanks for the recognition!
 - *2025.09*: &nbsp;🎉🎉 Our work [UltraDelta](https://arxiv.org/pdf/2505.13563) has been accepted as a poster at **NeurIPS 2025**！
-- *2025.05*: &nbsp;🎉🎉 Our work [UltraDelta](https://arxiv.org/pdf/2505.13563) is now on arxiv！
 - *2025.05*: &nbsp;🎉🎉 I am proud to be named one of the Top 10 Students in the School of Information Science and Technology!
 - *2025.05*: &nbsp;🎉🎉 I have received the Fumei Summer Research Scholarship. Many thanks to the Fumei Foundation!
-- *2025.03*: &nbsp;🎉🎉 Our work [Delta-DCT](https://arxiv.org/pdf/2503.06676) is now on arxiv！
 - *2023.12*: &nbsp;🎉🎉 I have received the National Scholarship. Many thanks for the recognition!
 
 # 🎖 Honors and Awards
