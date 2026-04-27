@@ -31,7 +31,7 @@ In Fall 2026, I will be joining [The Hong Kong University of Science and Technol
 - *2026.04.27*: &nbsp;🎉🎉 Our work [Rhythm](https://hoshi-no-ai.github.io/Rhythm/) has been accepted at **RSS 2026**!
 - *2026.04*: &nbsp;🎉🎉 I have received the Hong Kong PhD Fellowship (HKPFS). Many thanks for the recognition!
 - *2025.10*: &nbsp;🎉🎉 I have received my second National Scholarship. Many thanks for the recognition!
-- *2025.09*: &nbsp;🎉🎉 Our work [UltraDelta](https://arxiv.org/pdf/2505.13563) has been accepted as a poster at **NeurIPS 2025**!
+- *2025.09*: &nbsp;🎉🎉 Our work [UltraDelta](https://arxiv.org/pdf/2505.13563) has been accepted at **NeurIPS 2025**!
 - *2025.05*: &nbsp;🎉🎉 I have received the Fumei Summer Research Scholarship. Many thanks to the Fumei Foundation!
 - *2023.12*: &nbsp;🎉🎉 I have received the National Scholarship. Many thanks for the recognition!
 
