@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Xiaohui Wang"
 description              : "Trust the process. Be the change."
-repository               : "xiaohuiwang000/xiaohuiwang.github.io"
+repository               : "xiaohuiwang000/xiaohuiwang000.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=9J1lk7IAAAAJ"
-  email            : "xiaohuiwang21@m.fudan.edu.cn"
+  email            : "heatherwang000@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

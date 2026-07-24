@@ -17,18 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am **Xiaohui Wang**, a final-year undergraduate student majoring in Electronic Information Science and Technology at [Fudan University](https://www.fudan.edu.cn). I am fortunate to be advised by [Prof. Tao Chen](https://eetchen.github.io/) at the Fudan EDL Lab. I also work closely with [Dr. Peng Ye](https://scholar.google.com/citations?user=UEZZP5QAAAAJ&hl=en) (Postdoc at [MMLab@CUHK](https://mmlab.ie.cuhk.edu.hk). My research interests lie in **Efficient AI** and **Embodied AI**.
+Hi! I am **Xiaohui Wang**, an incoming Ph.D. student at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), where I will be advised by [Prof. Ping Tan](https://pingtan.people.ust.hk/index.html) starting in Fall 2026. I recently received my bachelor's degree from [Fudan University](https://www.fudan.edu.cn), where I was fortunate to be advised by [Prof. Tao Chen](https://eetchen.github.io/) at the Fudan EDL Lab.
 
-I have worked as a **research intern** at [MMLab@HKU](https://mmlab.hk) under the supervision of [Prof. Ping Luo](http://luoping.me/). I am excited to work alongside talented researchers.
+I am currently an intern at **TARS Robotics**, where I work with [Prof. Wenchao Ding](https://wenchaoding.github.io/personal/index.html). Previously, I worked as a **research intern** at **MMLab@HKU** under the supervision of [Prof. Ping Luo](http://luoping.me/). I also collaborate closely with [Dr. Peng Ye](https://scholar.google.com/citations?user=UEZZP5QAAAAJ&hl=en) at **MMLab@CUHK**.
 
-In addition, I am a member of the [EGA robotics team](https://drive.google.com/file/d/18Pnz-0MFsJgAAWyQN3Yqpy9VvCE-_q71/view?usp=drive_link) at Fudan University, representing the university in the **RoboMaster** competition.
+My research interests lie in **Efficient AI** and **Embodied AI**.
 
-In Fall 2026, I will be joining [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) as a Ph.D. student under the supervision of [Prof. Ping Tan](https://pingtan.people.ust.hk/index.html).
+During my undergraduate studies, I was a member of the [EGA Robotics Team](https://drive.google.com/file/d/18Pnz-0MFsJgAAWyQN3Yqpy9VvCE-_q71/view?usp=drive_link), representing Fudan University in the **RoboMaster** competition.
 
-<span style="color:blue;">If you are interested in connecting, collaborating, or discussing ideas, feel free to reach out to me via email. You can also access my CV [**HERE**](https://drive.google.com/file/d/187rZdZZIrTxQpYSrKbO4YIWrrETO6eEs/view?usp=drive_link).</span>
+<span style="color:blue;">If you are interested in connecting, collaborating, or discussing ideas, feel free to reach out to me at [heatherwang000@gmail.com](mailto:heatherwang000@gmail.com).</span>
 
 # 🔥 News
-- *2026.04.27*: &nbsp;🎉🎉 Our work [Rhythm](https://hoshi-no-ai.github.io/Rhythm/) has been accepted at **RSS 2026**!
+- *2026.04*: &nbsp;🎉🎉 Our work [Rhythm](https://hoshi-no-ai.github.io/Rhythm/) has been accepted at **RSS 2026**!
 - *2026.04*: &nbsp;🎉🎉 I have received the Hong Kong PhD Fellowship (HKPFS). Many thanks for the recognition!
 - *2025.10*: &nbsp;🎉🎉 I have received my second National Scholarship. Many thanks for the recognition!
 - *2025.09*: &nbsp;🎉🎉 Our work [UltraDelta](https://arxiv.org/pdf/2505.13563) has been accepted at **NeurIPS 2025**!
@@ -39,11 +39,10 @@ In Fall 2026, I will be joining [The Hong Kong University of Science and Technol
 - *2026.04* **Hong Kong PhD Fellowship (HKPFS)**
 - *2024-2025* **National Scholarship**
 - *2022-2023* **National Scholarship**
-- *2026.04* Shanghai Outstanding Graduate
+- *2026.04* **Shanghai Outstanding Graduate**
 - *2024-2025* Top 10 Student Award at School of Information Science and Technology
 - *2025.05* Fumei Summer Research Scholarship (awarded to only 4 students at Fudan University)
 - *2023-2024* SCSK Corporation Scholarship
-- *2024.09* China Undergraduate Mathematical Contest in Modeling (Second Prize, Shanghai)
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS</div><img src='../images/ultradelta.png' alt="sym" width="100%"></div></div>
@@ -54,23 +53,14 @@ In Fall 2026, I will be joining [The Hong Kong University of Science and Technol
 
 <span style="color:red;">(Accepted by NeurIPS 2025)</span>
 
-- To break the compression ceiling of delta weights, we analyze the limitations of existing methods in information preservation and model stability, and propose UltraDelta, the first data-free pipeline enabling ultra-efficient delta compression, achieving both ultra-high compression ratios and strong performance without relying on any data.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='../images/delta_dct.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Seeing Delta Parameters as JPEG Images: Data-Free Delta Compression with Discrete Cosine Transform](https://arxiv.org/pdf/2503.06676)
 
-Chenyu Huang\*, Peng Ye\*, <span style="color:blue;">**Xiaohui Wang**</span>, Shenghe Zheng, Biqing Qi, Lei Bai, Wanli Ouyang, Tao Chen&#8224;
-
-- Motivated by the classic JPEG compression, we explore the delta compression from the DCT domain for the first time. We first realize data-free delta compression and further reduce the performance degradation. We propose a framework based on compression in the DCT domain, named DELTA-DCT.
-</div>
-</div>
-
-# 📖 Education
-- *2022.06 - present*, Electronic Information Science and Technology, Fudan University. (GPA:93/100, rank: 5/95 in class, 5/206 in school)
-- *2025.06 - 2025.09*, School of Computing and Data Science, The University of Hong Kong (Summer Intern at MMLab@HKU)
+# 📖 Experience
+- *2026.01 - 2026.07*, **Intern, TARS Robotics**.
+- *2022.06 - 2026.06*, **Undergraduate, Fudan University**.
+- *2025.06 - 2025.09*, **Summer Intern, MMLab@HKU, The University of Hong Kong**.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
@@ -80,4 +70,4 @@ Chenyu Huang\*, Peng Ye\*, <span style="color:blue;">**Xiaohui Wang**</span>, Sh
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 ---
-<p style="text-align: center;"><em>Last update in April 2026</em></p>
+<p style="text-align: center;"><em>Last update in July 2026</em></p>
